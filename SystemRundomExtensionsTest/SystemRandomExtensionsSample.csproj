@@ -8,8 +8,8 @@
     <ProjectGuid>{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SystemRundomExtensionsTest</RootNamespace>
-    <AssemblyName>SystemRundomExtensionsTest</AssemblyName>
+    <RootNamespace>SystemRandomExtensionsTest</RootNamespace>
+    <AssemblyName>SystemRandomExtensionsTest</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

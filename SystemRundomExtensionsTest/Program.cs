@@ -31,7 +31,7 @@ using System;
 using System.Collections.Generic;
 using MathNet.Numerics.Random;
 
-namespace SystemRundomExtensionsSample
+namespace SystemRandomExtensionsSample
 {
     class Program
     {

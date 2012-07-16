@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathNetStatisticsSample", "mathnet1\MathNetStatisticsSample.csproj", "{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemRundomExtensionsSample", "SystemRundomExtensionsTest\SystemRundomExtensionsSample.csproj", "{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemRandomExtensionsSample", "SystemRundomExtensionsTest\SystemRandomExtensionsSample.csproj", "{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F829DA2-E88A-43D6-ADB2-55802EB30E75}"
+	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
