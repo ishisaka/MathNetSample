@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathNetStatisticsSample", "mathnet1\MathNetStatisticsSample.csproj", "{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemRundomExtensionsSample", "SystemRundomExtensionsTest\SystemRundomExtensionsSample.csproj", "{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}.Debug|x86.ActiveCfg = Debug|x86
+		{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}.Debug|x86.Build.0 = Debug|x86
+		{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}.Release|x86.ActiveCfg = Release|x86
+		{525DE5AF-65D1-44D6-AAFB-C9A407281EBE}.Release|x86.Build.0 = Release|x86
+		{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}.Debug|x86.ActiveCfg = Debug|x86
+		{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}.Debug|x86.Build.0 = Debug|x86
+		{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}.Release|x86.ActiveCfg = Release|x86
+		{D7C48B01-6F44-46E7-84EC-2E266BD79C7A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
