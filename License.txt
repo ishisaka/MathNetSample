@@ -1,4 +1,4 @@
-mathnet1 License (MIT/X11)
+MathNetSample License (MIT/X11)
 ===================================
 
 Copyright (c) 2012 Tadahiro Ishisaka (ishisaka@gmail.com)
