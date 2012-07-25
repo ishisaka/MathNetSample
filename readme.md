@@ -23,3 +23,6 @@ MathNetStatisticSample/
 
 SystemRandomExtensionsSample/  
 System.Randomクラスの拡張メソッドがまとめられたSystemRandomExtensionsクラスの使用サンプル。
+
+MathNetStatisticSample2/  
+統計に関するメソッドがまとめられたStatisticクラスの拡張メソッドの使用サンプルとDescriptiveStatisticsクラスのサンプル。
